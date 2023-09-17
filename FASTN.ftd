@@ -9,7 +9,7 @@
 ;; will use this `page` component in our package. So we do not need `doc-site`.
 
 ;; COMMENT NEXT LINE 
--- fastn.auto-import: fastn-community.github.io/doc-site as ds
+;; -- fastn.auto-import: fastn-community.github.io/doc-site as ds
 
 ;; UNCOMMENT NEXT LINE
 -- fastn.auto-import: hello/ds
